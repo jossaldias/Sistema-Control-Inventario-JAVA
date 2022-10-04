@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Users/José%20Saldías/Documents/SSOT/SCIGOE/Proyecto%20JAVA/SistemaInventario/src/Conexion/Conectar.java</file>
-            <file>file:/D:/Users/José%20Saldías/Documents/SSOT/SCIGOE/Proyecto%20JAVA/SistemaInventario/src/Clases/Cls_Entrada.java</file>
+            <file>file:/D:/Users/José%20Saldías/Documents/GitHub/sistemaControlInventarioJAVA/src/Conexion/Conectar.java</file>
+            <file>file:/D:/Users/José%20Saldías/Documents/GitHub/sistemaControlInventarioJAVA/src/Formularios/Frm_Principal.java</file>
+            <file>file:/D:/Users/José%20Saldías/Documents/GitHub/sistemaControlInventarioJAVA/src/Formularios/Frm_Login.java</file>
+            <file>file:/D:/Users/José%20Saldías/Documents/GitHub/sistemaControlInventarioJAVA/src/Formularios/Frm_Entrada.java</file>
         </group>
     </open-files>
 </project-private>

@@ -30,7 +30,6 @@ public class Frm_Principal extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
         contenedor = new javax.swing.JDesktopPane();
         jLabel2 = new javax.swing.JLabel();
-        jLabel3 = new javax.swing.JLabel();
         txt_menu = new javax.swing.JLabel();
         jButton1 = new javax.swing.JButton();
         jButton3 = new javax.swing.JButton();
@@ -62,17 +61,15 @@ public class Frm_Principal extends javax.swing.JFrame {
         jPanel1.add(contenedor, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 120, 1040, 550));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel2.setForeground(new java.awt.Color(0, 0, 255));
         jLabel2.setText("Sistema de Inventario");
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 40, -1, -1));
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 80, -1, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/LOGO-01.png"))); // NOI18N
-        jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 10, 120, 120));
-
-        txt_menu.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        txt_menu.setForeground(new java.awt.Color(255, 255, 0));
+        txt_menu.setBackground(new java.awt.Color(255, 255, 255));
+        txt_menu.setFont(new java.awt.Font("Arial", 1, 48)); // NOI18N
+        txt_menu.setForeground(new java.awt.Color(0, 0, 204));
         txt_menu.setText("MENU PRINCIPAL");
-        jPanel1.add(txt_menu, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 140, -1, -1));
+        jPanel1.add(txt_menu, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, -1, -1));
 
         jButton1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/paquete.png"))); // NOI18N
@@ -214,7 +211,6 @@ public class Frm_Principal extends javax.swing.JFrame {
     private javax.swing.JButton jButton6;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JLabel txt_menu;
     // End of variables declaration//GEN-END:variables

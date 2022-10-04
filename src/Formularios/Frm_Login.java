@@ -24,8 +24,8 @@ public class Frm_Login extends javax.swing.JFrame {
     }
     
     private void login(){
-        String usuario = "cvaras";
-        String clave = "cvaras";
+        String usuario = "admin";
+        String clave = "admin";
         
         String user = txt_usuario.getText();
         String pass = txt_clave.getText();
